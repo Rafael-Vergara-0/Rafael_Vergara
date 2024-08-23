@@ -31,13 +31,13 @@ Implementé una interfaz web en **Flask** para la detección y segmentación de 
   - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) Flask
   - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) PyTorch
   - ![Google Sheets](https://img.shields.io/badge/Google_Sheets-4285F4?style=flat&logo=google-sheets&logoColor=white) Google Sheets
-  - ![AppScript](https://img.shields.io/badge/AppScript-4285F4?style=flat&logo=google&logoColor=white) AppScript
+  - ![AppScript](https://img.shields.io/badge/Google_App_Script-4285F4?style=flat&logo=google&logoColor=white) AppScript
   - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git
 
 ## 📫 Conéctate Conmigo
 
-- **LinkedIn:** [Tu Perfil de LinkedIn](#)
-- **Correo Electrónico:** tu.email@ejemplo.com
-- **Telegram:** [Tu Nombre de Usuario en Telegram](#)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+- **Correo Electrónico:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
+- **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/tu_usuario)
 
 Gracias por visitar mi perfil. ¡Explora mis repositorios y no dudes en contactarme para consultas o colaboraciones!
