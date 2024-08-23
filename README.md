@@ -16,10 +16,16 @@ Implementé una interfaz web en **Flask** para la detección y segmentación de 
 ### 🌟 **Automatización de Reportes en Google Workspace**
 Automatización de la generación y envío de reportes mediante **Google Sheets** y **AppScript**, mejorando la eficiencia del flujo de trabajo y reduciendo errores en la presentación de datos.
 
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** Python, JavaScript
+- **Frameworks:** Django, Flask, PyTorch
+- **Herramientas:** Google Sheets, AppScript, Git
+
 ## 📫 Conéctate Conmigo
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-- **Correo Electrónico:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
-- **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/tu_usuario)
+- **LinkedIn:** [Tu Perfil de LinkedIn](#)
+- **Correo Electrónico:** tu.email@ejemplo.com
+- **Telegram:** [Tu Nombre de Usuario en Telegram](#)
 
 Gracias por visitar mi perfil. ¡Explora mis repositorios y no dudes en contactarme para consultas o colaboraciones!
