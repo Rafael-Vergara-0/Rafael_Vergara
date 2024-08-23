@@ -24,9 +24,15 @@ Implementé una interfaz web en **Flask** para la detección y segmentación de 
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Python, JavaScript
-- **Frameworks:** Django, Flask, PyTorch
-- **Herramientas:** Google Sheets, AppScript, Git
+- **Lenguajes y Librerías:**
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
+  - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) Django
+  - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) Flask
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) PyTorch
+  - ![Google Sheets](https://img.shields.io/badge/Google_Sheets-4285F4?style=flat&logo=google-sheets&logoColor=white) Google Sheets
+  - ![AppScript](https://img.shields.io/badge/AppScript-4285F4?style=flat&logo=google&logoColor=white) AppScript
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git
 
 ## 📫 Conéctate Conmigo
 
