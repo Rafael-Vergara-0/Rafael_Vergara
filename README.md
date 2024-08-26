@@ -24,7 +24,7 @@ Automatización de la generación y envío de reportes mediante **Google Sheets*
 
 ## 📫 Conéctate Conmigo
 
-- **LinkedIn:** [linkedIn](https://www.linkedin.com/in/rafael-vergara-3a677323b/)
+- **LinkedIn:** [#](https://www.linkedin.com/in/rafael-vergara-3a677323b/)
 - **Correo Electrónico:** nrvergara02@gmail.com
 
 Gracias por visitar mi perfil. ¡Explora mis repositorios y no dudes en contactarme para consultas o colaboraciones!
