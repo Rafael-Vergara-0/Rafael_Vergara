@@ -24,8 +24,7 @@ Automatización de la generación y envío de reportes mediante **Google Sheets*
 
 ## 📫 Conéctate Conmigo
 
-- **LinkedIn:** [Tu Perfil de LinkedIn](#)
-- **Correo Electrónico:** tu.email@ejemplo.com
-- **Telegram:** [Tu Nombre de Usuario en Telegram](#)
+- **LinkedIn:** [www.linkedin.com/in/rafael-vergara-3a677323b](#)
+- **Correo Electrónico:** nrvergara02@gmail.com
 
 Gracias por visitar mi perfil. ¡Explora mis repositorios y no dudes en contactarme para consultas o colaboraciones!
